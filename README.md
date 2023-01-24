@@ -16,4 +16,5 @@
 - 💬 Ask me about my jumpshot. Its spicy. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/travis-royce/
+- Read my writing on Medium: https://medium.com/@traviscroyce
 
