@@ -1,5 +1,6 @@
 ### Hi there 👋
-![todd-quackenbush-XBxQZLNBM0Q-unsplash](https://user-images.githubusercontent.com/89557280/214365016-1ee2f91f-2c3f-43ad-ae67-917010d8b391.jpg)
+![todd-quackenbush-XBxQZLNBM0Q-unsplash](https://user-images.githubusercontent.com/89557280/214365357-0ad229d6-eaa1-4d9d-b95c-4608e84f9063.jpg)
+
 
 **My name is Travis Royce**, and I am a data scientist with a background in finance and writing, and a recent graduate of the Flatiron School. My undergraduate degree was in finance, and my last position was as a valuation associate. I chose data science because I have always had an affinity towards statistics, and I believe data science and AI will usher in a new era of problem solving and increase productivity at an exponential rate. What could be cooler than that?
 
