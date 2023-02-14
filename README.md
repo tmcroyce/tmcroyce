@@ -9,7 +9,7 @@
 - Regarding finance, I have completed the first version of a ![single-stock prediction/classification](https://github.com/tmcroyce/Analyst_Price_Target_Prediction_v1) model based on Analyst Ratings. Further, I am completing a ML application that analyzes the downside risk in specific economic events and provides the user with a calander based upon those risk models, among other projects. 
 - Regarding music, I am working on ML auto-production software, which takes many different forms. For instance, one part of the application is a ML chord-writer, which chooses chord progressions based off of reading thousands of billboard top-100 chord progressions. To fully complete the application, many of these smaller ML models are necessary, at least in the way I structure it. 
 
-- 👯 I’m looking to collaborate on anything that seems like a net benefit for the world!
+- 👯 I’m looking to collaborate on anything that seems interesting or generally like a net benefit for the world!
 
 - 💬 Ask me about my jumpshot. Its spicy. 
 
