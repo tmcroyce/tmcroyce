@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Machine Learning applications for sports, finance, and music. 
 - Regarding sports, I have working streamlit applications that predict [NBA game winners](https://github.com/tmcroyce/NBA_Prediction_Classification_Public) with 83% accuracy and [UFC match winners](https://github.com/tmcroyce/UFC_Prediction_V2.1) with 73% accuracy. Check these out in application form:
     - [NBA Player Analytics Toolkit](https://tmcroyce-multi-page-player-analysis-1-homepage-8e0wxz.streamlit.app/) for NBA Player EDA, clustering, and general analytics
-    - [NBA Daily Prediction App -- Simple Version](https://tmcroyce-multipage-streamlit-app-v2-3-1-homepage-jp4gxf.streamlit.app/NBA_Game_Predictions_[Simple])
-    - [NBA Daily Prediction App Expanded](https://tmcroyce-multipage-streamlit-app-v2-3-1-homepage-jp4gxf.streamlit.app/NBA_Game_Analyzer_Tool)
+    - [NBA Daily Prediction App -- Simple Version](https://tmcroyce-multipage-streamlit-app-v2-3-1-homepage-jp4gxf.streamlit.app/NBA_Game_Predictions_[Simple]) Updates and Re-trains Daily
+    - [NBA Daily Prediction App Expanded](https://tmcroyce-multipage-streamlit-app-v2-3-1-homepage-jp4gxf.streamlit.app/NBA_Game_Analyzer_Tool) Includes EDA & Metrics important to the predictive model
 - Regarding finance, I have completed the first version of a [single-stock prediction/classification](https://github.com/tmcroyce/Analyst_Price_Target_Prediction_v1) model based on Analyst Ratings. Further, I am completing a ML application that analyzes the downside risk in specific economic events and provides the user with a calander based upon those risk models, among other projects. 
 - Like Convolutional Neural Networks? Good! Check out my [CNN project that identifies pneumonia from x-ray images](https://github.com/tmcroyce/Pneumonia_Image_Classification_CNN) 
 - Regarding music, I am working on ML auto-production software, a beta which I should have available soon.
